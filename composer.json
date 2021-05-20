@@ -1,0 +1,21 @@
+{
+    "name": "Sensation Framework",
+    "type": "project",
+    "description": "An extremely simple naked PHP application",
+    "keywords": ["framework", "cms", "sensation", "energy"],
+    "homepage": "http://www.sensationenergy.com/moj/framework/index.php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sensation Energy",
+            "Copyright": "@ Sensation Energy 2020."
+        }
+    ],
+    "support": {
+        "issues": "http://www.sensationenergy.com/moj/framework/index.php",
+        "source": "http://www.sensationenergy.com/moj/framework/index.php"
+    },
+    "require": {
+        "php": ">=1.0"
+    }
+}
